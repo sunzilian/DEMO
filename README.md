@@ -6,7 +6,7 @@
 ```
 $ git clone  https://github.com/sunzilian/DEMO.git
 ```
-在Bookstore目录下安装依赖包
+在DEMO目录下安装依赖包
 ```
 > $ npm install 
 ```
